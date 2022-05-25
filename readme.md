@@ -47,8 +47,6 @@
 
 * Streamlit
 
-* Base64
-
 * Matplotlib
 
 * Plotly

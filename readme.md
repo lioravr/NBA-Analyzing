@@ -38,6 +38,7 @@
 ## Requirements
 
 * WSL (preferable version 2)
+* Docker Desktop
 
 ## Built On
 

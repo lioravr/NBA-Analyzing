@@ -12,6 +12,11 @@
 
 * Notice: all the data are taken from <https://www.basketball-reference.com/>
 
+
+## Review
+
+https://youtu.be/3UiJPcndv-8
+
 ## Get Started
 
 ---

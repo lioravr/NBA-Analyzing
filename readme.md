@@ -18,7 +18,7 @@
 
 1. Download all the files and zip them.
 
-2. open WSL and go to the project path
+2. open WSL and navigate to the project path
 
 3. Run this command on your WSL
 

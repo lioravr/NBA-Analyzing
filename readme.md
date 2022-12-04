@@ -4,6 +4,11 @@
 
 ---
 
+**Update**
+The project doesn't run for now. 
+The sloution for the problem is to add "" in a new line at the requirements in the backend file. 
+
+
 1. Explore all the players from the begining of the league until today.
 
 2. Filter by years, position and player stat.
